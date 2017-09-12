@@ -5,6 +5,9 @@
 </head>
 <body>
 
+<p>Data dari Main PC</p>
+
+
 <h1>This is a Heading</h1>
 <p>This is a paragraph. data tambahan</p>
 
@@ -13,13 +16,13 @@
 <p>Update data Dua .</p>
 
 
-<p>Update data Dua tiga dari main0.</p>
-<p>Update data Dua tiga dari main1.</p>
-
 
 <p>Update data Tiga 3.</p>
 <p>Update data Tiga 3.</p>
 <p>Update data Tiga 3.</p>
+
+<p>Data dari Main PC</p>
+
 
 </body>
 </html>
